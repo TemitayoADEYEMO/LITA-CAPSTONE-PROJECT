@@ -34,4 +34,7 @@ The dataset was given as a project in order to test students on the work taught 
   ## Data Transformation and loading
   The raw data was filled with various flaws that had to be cleaned out first with Ms Excel then put into the SQL studio to extract more information and finally transformed to a visualization in Ms Power BI.
 
-![](Excel 1.1.png)
+
+
+## Data Analysis and Visualization
+It is quite clear
