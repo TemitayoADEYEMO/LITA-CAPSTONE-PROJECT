@@ -37,4 +37,5 @@ The dataset was given as a project in order to test students on the work taught 
 
 
 ## Data Analysis and Visualization
-It is quite clear
+# Sales Data
+For the excel, we found the duplicates hiding in the table by selecting all and cliking on the remove dupliucate icon on 
