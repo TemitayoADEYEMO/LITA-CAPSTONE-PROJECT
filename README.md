@@ -15,8 +15,6 @@ Data Transformation and Loading
 
 Insight of the data
 
-Insights and Implications
-
 Recommendation
 
 Conclusion
@@ -39,7 +37,7 @@ The dataset was given as a project in order to test students on the work taught 
 An example of a question solved on MS SSMS
 
 ## Insight of the data 
-The data given was not business specified, however, the name give to this company will be **CAPSTONE**. Capstone seems to have encountered an issue in trying to understand their company sales and want to openly summarize their sale of items (gloves, shirt, socks, hats and jackets) on the other hand, their monthly subscription agency wants to further understand their customers on the basis of their subsciption types (basic, standard and premium). The questions asked provide a knowledge of what the company is looking for. For the first data, it has the tag of SALES DATA while the second is tagged CUSTOMER DATA. As stated earlier, the use of all three tools made sure to stretch across all questions that both the comany and the analyst had.    
+The data given was not business specified, however, the name give to this company will be **CAPSTONE**. Capstone seems to have encountered an issue in trying to understand their company sales and want to openly summarize their sale of items (gloves, shirt, shoes, socks, hats and jackets) on the other hand, their monthly subscription agency wants to further understand their customers on the basis of their subsciption types (basic, standard and premium). The questions asked provide a knowledge of what the company is looking for. For the first data, it has the tag of SALES DATA while the second is tagged CUSTOMER DATA. As stated earlier, the use of all three tools made sure to stretch across all questions that both the comany and the analyst had.    
     The first data (SALES DATA) had several questions like, their total sales (which was extracted with multiplying the quantity sold and the unit price), the average of each product (to show which product had the highest average outside the general average), the region that had more sales (which used a pivot table to spread it out properly) and so on. The images help explain them further.
 
 ![](https://github.com/TemitayoADEYEMO/LITA-CAPSTONE-PROJECT/blob/main/Excel%202.1.png)
@@ -57,3 +55,10 @@ Other images for this particular table, include the following;
 ![](https://github.com/TemitayoADEYEMO/LITA-CAPSTONE-PROJECT/blob/main/SQL1.6.png)
 ![](https://github.com/TemitayoADEYEMO/LITA-CAPSTONE-PROJECT/blob/main/SQL1.7.png)
 ![](https://github.com/TemitayoADEYEMO/LITA-CAPSTONE-PROJECT/blob/main/SQL1.8.png)
+
+All questions have been duly answered to their capacity. 
+
+Their visualization that was done on the Power BI dashboard;
+![](https://github.com/TemitayoADEYEMO/LITA-CAPSTONE-PROJECT/blob/main/PBI%202.1.png)
+
+
