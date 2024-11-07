@@ -61,4 +61,4 @@ All questions have been duly answered to their capacity.
 Their visualization that was done on the Power BI dashboard;
 ![](https://github.com/TemitayoADEYEMO/LITA-CAPSTONE-PROJECT/blob/main/PBI%202.1.png)
 
-
+The second table tagged CUSTOMER DATA had questions that bugged CAPSTONE. Their subscription rate was either on a decline or on an incline. So they got curios about the customer and their subscriptions in the packages provided by them. Of course the data intends to show the exact reports that the company wants and needs. Some of the questions asked were; the most popular subscriptio type (to measure out which of CAPSTONE's subscription packages was appealing 
